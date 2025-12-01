@@ -65,7 +65,7 @@ export default function Home() {
   return (
     <S.Container>
       <Head>
-        <title>NICE Multiserviços - Soluções de Software</title>
+        <title>NICE Multiserviços</title>
       </Head>
 
       <Header />
